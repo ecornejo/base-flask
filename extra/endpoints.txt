@@ -1,0 +1,23 @@
+Se recomienda utilizar postman e importar el archivo base_flask.postman_collection.json. Las llamadas ya están construídas con información de ejemplo. De todas formas listo las url de consulta, aunque les tocará a ustedes ver los parámetros a enviar, etc.
+
+
+GET /alumno/<id_alumno>
+GET /curso/<id_curso>
+PUT /curso/<id_curso>
+GET /profesor/<id_profesor>
+DEL /alumno/<id_alumno>
+DEL /curso/<id_curso>
+DEL /profesor/<id_profesor>
+GET /alumnos
+GET /profesores
+GET /cursos
+POST /alumnos
+POST /cursos
+POST /profesores
+PUT /profesores
+PUT /alumnos
+GET /curso/<id_curso>/alumnos
+
+
+
+El proyecto está configurado para levantarse en el puerto 5005

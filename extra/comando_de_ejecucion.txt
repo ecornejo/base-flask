@@ -1,0 +1,4 @@
+Para ejecutar el proyecto se debe pasar como parámetro el ambiente.
+Ejemplo:
+
+	python app.py development
