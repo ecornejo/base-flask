@@ -10,3 +10,15 @@ La carpeta extra contiene el sql con la base de datos, un informativo sobre las 
 cosas que considere necesarias
 
 Hay comentarios que explican las relaciones entre los modelos y ofrecen algunos tips que al menos a mi me parecen útiles.
+
+
+
+IMPORTANTE!!!
+
+Requiere la instalación de las siguientes librerías (aparte de python por supuesto. Flask es un microframework de Python):
+
+- flask
+- flask-sqlalchemy
+- flask-restful
+- pymysql
+- flask-inputs
